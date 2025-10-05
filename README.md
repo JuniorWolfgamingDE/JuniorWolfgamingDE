@@ -4,9 +4,9 @@ I create Minecraft mods, packs, plugins etc. Anything the heart desires!
 I'm currently mainly working on fixing issues in older mods for Minecraft version 1.12.2, and am trying to (re-)maintain a moderation system for Minecraft.
 If you haven't noticed yet, I like cats. Like, a lot. And Hatsune Miku. And if you wanna stalk my taste in music, feel free to visit my [Last.fm profile](https://last.fm/user/juniorwmg).
 
-Dear Microsoft gods of GitHub, please make pushes to forks show on my activity meter, it majorly pisses me off that it doesn't.
+Dear Microsoft gods of GitHub, please make pushes to forks show on my activity meter, it majorly pisses me off that they don't.
 
-You can reach me either by adding me on Discord (@juniowmg), or sending an [e-mail](mailto:juniorwmg@lolcatz.de?subject=Contact%20via%20GitHub).
+You can reach me either by adding me on Discord (@juniorwmg), or sending an [e-mail](mailto:juniorwmg@lolcatz.de?subject=Contact%20via%20GitHub).
 
 
 <!--
